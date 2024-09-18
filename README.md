@@ -1,7 +1,7 @@
 Churn Rate Analysis: 
 Churned users exhibit distinct behavioral patterns compared to retained users. Churned users, on average, had more drives, drove longer distances, and spent more time on the road than retained users. Despite their higher activity, these users were more likely to stop using the app.
 
-Average User Behavior:A key insight is that the median values were more representative due to the presence of outliers in the data, which made the median a better measure than the mean. This revealed that churned users had higher engagement metrics (e.g., more sessions per day) than retained users.
+Average User Behavior: A key insight is that the median values were more representative due to the presence of outliers in the data, which made the median a better measure than the mean. This revealed that churned users had higher engagement metrics (e.g., more sessions per day) than retained users.
 
 Outliers Impact: Identifying and removing outliers was critical to ensure accurate analysis. Without addressing these outliers, the results might have been skewed, particularly regarding user engagement metrics like drives and session frequency.
 
