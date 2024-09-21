@@ -1,3 +1,5 @@
+Key Insights:
+
 Churn Rate Analysis: 
 Churned users exhibit distinct behavioral patterns compared to retained users. Churned users, on average, had more drives, drove longer distances, and spent more time on the road than retained users. Despite their higher activity, these users were more likely to stop using the app.
 
